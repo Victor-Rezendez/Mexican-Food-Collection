@@ -1,15 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+chef,Chef,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+category,Category,
+cuisine,Cuisine,
+ingredients,Ingredients,
+description,Description,
+directions,Directions,
 format,Format,
+type,Type,
+filesize,Filesize,
+dimesions,Dimensions,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+permissions,Permissions,
