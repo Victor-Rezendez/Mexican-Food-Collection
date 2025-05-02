@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Mexican-Food-Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A photo collection of Mexican food
+tagline: A Photo Collection of Mexican Food.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of Mexican Food and some descriptions and directions"
+description: "This is a photo collection of some of the chef's favorite Mexican Foods."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Victor Resendiz
 
@@ -34,7 +34,7 @@ author: Victor Resendiz
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: Mexican-Food-Collection - Sheet1
+metadata: Mexican-Food-Collection
 
 ##########
 # Site/Organization Branding 
