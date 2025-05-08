@@ -2,7 +2,6 @@ field,display_name,browse_link,external_link
 title,Title,
 chef,Chef,
 date,Date Created,
-description,Description,
 subject,Subjects,true
 category,Category,
 cuisine,Cuisine,
